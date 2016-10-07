@@ -9,6 +9,9 @@
 // a square wave, but I don't expose that in this code.  See the
 // ds1307 for it's full capabilities.
 
+//adding a comment...
+
+
 #include "Wire.h"
 #define DS1307_I2C_ADDRESS 0x68
 
